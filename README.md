@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darshana494
+- 👋 Hi, I’m Darshana Wishwajith
 - 👀 I’m interested in Programming, Electronics, Web Development, Graphic Designing, Photography.
 - 🌱 I’m currently learning Java, HTML, Pascal, CSS, Python, PHP, MySQL, JavaScript
 - 💞️ I’m looking to collaborate on Programmers.
