@@ -147,15 +147,15 @@
 <table>
 <tr>
 <td colspan="2" align="center">
- <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana-wishwajith&layout=compact&hide=Tex,Hack&langs_count=6"/>
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana-wishwajith&layout=donut&hide=Tex,Hack&langs_count=6&theme=radical"/>
 </td>
 </tr>
 <tr>
   <td>
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=darshana-wishwajith&theme=dark&show_icons=true&count_private=true" />
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=darshana-wishwajith&theme=radical&show_icons=true&count_private=true" />
   </td>
   <td>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darshana-wishwajith&theme=dark&hide_border=false" /> 
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darshana-wishwajith&theme=radical&hide_border=false" /> 
 
   </td>
 </tr>
