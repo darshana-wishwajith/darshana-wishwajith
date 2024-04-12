@@ -147,7 +147,7 @@
 <table>
 <tr>
 <td colspan="2" align="center">
- <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana-wishwajith&layout=donut&hide=Tex,Hack&langs_count=6&theme=radical"/>
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana-wishwajith&layout=compact&hide=Tex,Hack&langs_count=6&theme=radical"/>
 </td>
 </tr>
 <tr>
