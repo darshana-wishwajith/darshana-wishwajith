@@ -38,8 +38,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>  Description</b>
   
   
-  - 🔭 I’m currently working on [credit_card_generator
-]((https://github.com/darshana-wishwajith/Weatherify.git))
+  - 🔭 I’m currently working on [Weatherify v1.0.0
+](https://github.com/darshana-wishwajith/Weatherify.git)
     
   - 🌱 I’m currently learning **Java, PHP**
 
