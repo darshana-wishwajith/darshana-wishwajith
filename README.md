@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Darshana Wishwajith</h1>
 
-<h3 align="center">IT Geek | Software Engineering Undergraduate</h3>
+<h3 align="center">IT Geek | Dip in SE (JIAT) | BICT (RUSL) </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darshana-wishwajith&label=Profile%20views&color=0e75b6&style=flat" alt="darshana-wishwajith" /> </p>
 
