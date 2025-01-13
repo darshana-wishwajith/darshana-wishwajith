@@ -57,13 +57,13 @@
 <table align="center">
 <tr>
 <td>
-<a href="https://twitter.com/darshana_wishwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshana_wishwa" height="40" width="50" /></a>
-</td>
-<td>
-<a href="https://linkedin.com/in/darshana-wishwajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshana-wishwajith" height="40" width="50"/></a>
+ <a href="https://linkedin.com/in/darshana-wishwajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshana-wishwajith" height="40" width="50"/></a>
 </td>
 <td>
 <a href="https://fb.com/darshana.wishwajith.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshana.wishwajith.31" height="40" width="50" /></a>
+</td>
+<td>
+<a href="https://twitter.com/darshana_wishwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshana_wishwa" height="40" width="50" /></a>
 </td>
 <td>
 <a href="https://instagram.com/darshana_wishwajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshana_wishwajith" height="40" width="50" /></a>
