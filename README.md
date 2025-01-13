@@ -154,6 +154,11 @@
 <td>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a>
 </td>
+
+ <td>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2024/10/Figma-Symbol.png" alt="figma" width="40" height="40"/> </a>
+</td>
+
 </tr></table>
 
 ## <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>  Statistics</b></p>
