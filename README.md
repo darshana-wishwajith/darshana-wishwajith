@@ -116,6 +116,11 @@
 </td>
 </tr>
 
+<td>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="40"/> </a>
+</td>
+</tr>
+
 <tr>
 <td><b>Cloud & OS</b></td>
 <td>
